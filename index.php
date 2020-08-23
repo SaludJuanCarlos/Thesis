@@ -1,4 +1,4 @@
-
+<!DOCTYPE HTML>
 <?php include('assets/header.php');?>
 
 <div class="containerIMG" id="home">
